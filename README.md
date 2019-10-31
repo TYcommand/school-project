@@ -1,2 +1,2 @@
 # school-project
-for (school) { debug.log("download for IOS")
+arts expresion 2019
