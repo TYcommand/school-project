@@ -1,0 +1,32 @@
+load/marijn.ttf
+if key pressed q type q
+if key pressed w type w
+if key pressed e type e
+if key pressed r type r
+if key pressed t type t
+if key pressed y type y
+if key pressed u type u
+if key pressed i type i
+if key pressed o type o
+if key pressed p type p
+if key pressed a type a
+if key pressed s type s
+if key pressed d type d
+if key pressed f type f
+if key pressed g type g
+if key pressed h type h
+if key pressed j type j
+if key pressed k type k
+if key pressed l type l
+if key pressed z type z
+if key pressed x type x
+if key pressed c type c
+if key pressed v type v
+if key pressed b type b
+if key pressed n type n
+if key pressed m type m
+if key pressed   type  
+if key pressed 
+type
+
+if key pressedthe
